@@ -203,7 +203,19 @@ header .contact-container .contact-list li span {
   color: #999 ;
 }
 
+.project .langusub {
+  margin-left: 0px;
+  font-size: 14px;
+  color: #777;
+}
 
+.project .psub {
+  position: relative ;
+  display: inline ;
+  margin-left: 5px;
+  color: #111 ;
+  font-size: 14px ;
+}
 /* skill */
 .skill {
   margin-bottom: 0!important ;
