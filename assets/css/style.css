@@ -184,7 +184,7 @@ header .contact-container .contact-list li span {
   position: relative ;
   display: inline ;
   color: #666 ;
-  font-size: 16px ;
+  font-size: 20px ;
 }
 .project h3::after {
   content: ' - ' ;
