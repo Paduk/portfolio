@@ -165,6 +165,28 @@ header .contact-container .contact-list li span {
   width:28%;
 }
 
+.experience .img2 {
+  padding: 5px;
+  border: 1px solid #999;
+  width:31%;
+}
+.experience .img3 {
+  padding: 5px;
+  border: 1px solid #999;
+  width:99%;
+}
+
+.experience .img4 {
+  padding: 5px;
+  border: 1px solid #999;
+  margin: 1px;
+  width:49%;
+}
+.experience .img5 {
+  padding: 5px;
+  border: 1px solid #999;
+  width:99%;
+}
 .experience .langu {
   margin-left: 10px;
   color: #222;
@@ -222,6 +244,15 @@ header .contact-container .contact-list li span {
 }
 .skill ul li {
   height: 15px ;
+}
+.skill .h2 {
+  font-weight: bold;
+  font-size : 18px;
+}
+.skill .p {
+  margin-left : 5px;
+  font-color: #999;
+  font-size : 14px;
 }
 .skill h3 {
   float: left ;
